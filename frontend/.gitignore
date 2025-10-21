@@ -1,0 +1,16 @@
+node_modules/
+package-lock.json
+yarn.lock
+.env
+.env.local
+.env.production
+dist/
+build/
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*

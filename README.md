@@ -46,3 +46,5 @@ Pulse coders
 ## 📄 License
 
 MIT License - GenAIversity Hackathon 2025
+run this in backend terminal before npm start  -   $env:GOOGLE_APPLICATION_CREDENTIALS = "C:\Users\Admin\AppData\Roaming\gcloud\application_default_credentials.json"
+

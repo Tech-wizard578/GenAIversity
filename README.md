@@ -5,6 +5,7 @@ AI-powered healthcare companion for rural India
 ## 🚀 Quick Start
 
 ```bash
+#Setup frontend in a terminal
 # Install dependencies
 npm install
 
@@ -13,7 +14,13 @@ npm run dev
 
 # Build for production
 npm run build
+
+#Setup backend in another terminal
+
+npm start
 ```
+
+
 
 ## 📋 Features
 
@@ -39,12 +46,8 @@ npm run build
 - Firebase
 - Lucide Icons
 
-## 👥 Team
-Pulse coders
-
-
 ## 📄 License
 
 MIT License - GenAIversity Hackathon 2025
-run this in backend terminal before npm start  -   $env:GOOGLE_APPLICATION_CREDENTIALS = "C:\Users\Admin\AppData\Roaming\gcloud\application_default_credentials.json"
+
 
